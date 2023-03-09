@@ -1,0 +1,26 @@
+[
+    {
+      "source": "wawayip ʔe xʷʔit te sʔetqʷɬp.",
+      "target": "Many pine trees burned.",
+      "mask_index": 2,
+      "times_correct": 0
+    }, 
+    {
+      "source": "wawayip ʔe xʷʔit te sʔetqʷɬp.",
+      "target": "Many pine trees burned.",
+      "mask_index": 0,
+      "times_correct": 0
+    }, 
+    {
+        "source": "wikcen",
+        "target": "I see you",
+        "mask_index": 0,
+        "times_correct": 0
+    },
+    {
+        "source": "wikne",
+        "target": "I saw him",
+        "mask_index": 0,
+        "times_correct": 0
+    } 
+]
