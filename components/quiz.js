@@ -30,7 +30,7 @@ function Quiz(props) {
 
     while (questionBank[currentIndex].times_correct === 2) {
         if (currentIndex === startIndex) {
-            alert("You've completed the quiz! Come back later");
+            alert("You've completed the quiz for today! Come back later");
             return;
         }
         if (currentIndex === questionBank.length - 1) {

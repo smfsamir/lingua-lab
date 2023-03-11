@@ -11,7 +11,7 @@ export default function Home() {
   const data = require('../components/data.json');
   // randomly select two unique indices from the data array.
     const randomIndices = [];
-    while (randomIndices.length < 2) {
+    while (randomIndices.length < 5) {
         const randomIndex = Math.floor(Math.random() * data.length);
         if (!randomIndices.includes(randomIndex)) {
             randomIndices.push(randomIndex);

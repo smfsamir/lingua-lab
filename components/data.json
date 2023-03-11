@@ -22,5 +22,203 @@
         "target": "I saw him",
         "mask_index": 0,
         "times_correct": 0
-    } 
+    },
+    {
+        "source": "wíkne sqaqxa",
+        "target": "I saw a dog.",
+        "mask_index": 1,
+        "times_correct": 0
+    },
+    {
+        "source": "wikne smiyc",
+        "target": "I saw a deer.",
+        "mask_index": 1,
+        "times_correct": 0
+    },
+    {
+        "source": "wíkne spéʔec",
+        "target": "I saw a bear.",
+        "mask_index": 1,
+        "times_correct": 0
+    },
+    {
+        "source": "wíkne snk̓y̓ép",
+        "target": "I saw a coyote.",
+        "mask_index": 1,
+        "times_correct": 0
+    },
+    {
+        "source": "wíkne spezuzu",
+        "target": "I saw a bird.",
+        "mask_index": 1,
+        "times_correct": 0
+    },
+    {
+        "source": "wíkne helew",
+        "target": "I saw a eagle.",
+        "mask_index": 1,
+        "times_correct": 0
+    },
+    {
+        "source": "wíkne sʔeʔeʔ",
+        "target": "I saw a crow.",
+        "mask_index": 1,
+        "times_correct": 0
+    },
+    {
+        "source": "wíkne sxiq",
+        "target": "I saw a duck.",
+        "mask_index": 1,
+        "times_correct": 0
+    },
+    {
+        "source": "wíkne skelule",
+        "target": "I saw a owl.",
+        "mask_index": 1,
+        "times_correct": 0
+    },
+    {
+        "source": "wíkm sqaqxa ta smiyc",
+        "target": "I saw a dog.",
+        "mask_index": 1,
+        "times_correct": 0
+    },
+    {
+        "source": "wíkm sqaqxa ta smiyc",
+        "target": "The dog saw the deer.",
+        "mask_index": 1,
+        "times_correct": 0
+    },
+    {
+        "source": "wíkm ta smiyc ta spaʔac",
+        "target": "The deer saw the bear.",
+        "mask_index": 4,
+        "times_correct": 0
+    },
+    {
+        "source": "wíkm ta spaʔac ta snk̓y̓ép",
+        "target": "The bear saw the coyote.",
+        "mask_index": 2,
+        "times_correct": 0
+    }, 
+    {
+        "source": "wíkm ta spaʔac ta snk̓y̓ép",
+        "target": "The bear saw the coyote.",
+        "mask_index": 2,
+        "times_correct": 0
+    },
+    {
+        "source": "wíkm ta snk̓y̓ép ta helew",
+        "target": "The coyote saw the eagle..",
+        "mask_index": 4,
+        "times_correct": 0
+    },
+    {
+        "source": "wíkm ta helew ta sʔeʔeʔ",
+        "target": "The eagle saw the crow.",
+        "mask_index": 2,
+        "times_correct": 0
+    },
+    {
+        "source": "wíkm ta sʔeʔeʔ ʔe sxiq",
+        "target": "The crow saw the duck.",
+        "mask_index": 4,
+        "times_correct": 0
+    }, 
+    {
+        "source": "wíkm ʔe sxiq ta skelule",
+        "target": "The duck saw the owl.",
+        "mask_index": 2,
+        "times_correct": 0
+    },
+    {
+        "source": "nc̓íx̣m ta smiyc",
+        "target": "He fried a deer.",
+        "mask_index": 2,
+        "times_correct": 0
+    },
+    {
+        "source": "nc̓íx̣m ta spaʔac",
+        "target": "He fried a bear.",
+        "mask_index": 2,
+        "times_correct": 0
+    },
+    {
+        "source": "nc̓íx̣m ta sxiq",
+        "target": "He fried a duck.",
+        "mask_index": 2,
+        "times_correct": 0
+    },
+    {
+        "source": "nc̓íx̣m ta sxiq",
+        "target": "He fried a duck.",
+        "mask_index": 2,
+        "times_correct": 0
+    },
+    {
+        "source": "wiktimen",
+        "target": "I saw you all (plural)",
+        "mask_index": 0,
+        "times_correct": 0
+    },
+    {
+        "source": "wiktixsne",
+        "target": "I saw you all (plural)",
+        "mask_index": 0,
+        "times_correct": 0
+    },
+    {
+        "source": "wiktixsnexw",
+        "target": "You saw them",
+        "mask_index": 0,
+        "times_correct": 0
+    },
+    {
+        "source": "wikts",
+        "target": "He saw him",
+        "mask_index": 0,
+        "times_correct": 0
+    },
+    {
+        "source": "wiktixs",
+        "target": "He saw us",
+        "mask_index": 0,
+        "times_correct": 0
+    },
+    {
+        "source": "wiktimes",
+        "target": "He saw you all (plural)",
+        "mask_index": 0,
+        "times_correct": 0
+    },
+    {
+        "source": "wikts",
+        "target": "He saw them",
+        "mask_index": 0,
+        "times_correct": 0
+    },
+    {
+        "source": "wiktct",
+        "target": "We saw you",
+        "mask_index": 0,
+        "times_correct": 0
+    },
+    {
+        "source": "wiktem",
+        "target": "We saw him",
+        "mask_index": 0,
+        "times_correct": 0
+    },
+    {
+        "source": "wiktuymet",
+        "target": "We saw you (plural)",
+        "mask_index": 0,
+        "times_correct": 0
+    },
+    {
+        "source": "wiktiyetem",
+        "target": "We saw them",
+        "mask_index": 0,
+        "times_correct": 0
+    }
 ]
