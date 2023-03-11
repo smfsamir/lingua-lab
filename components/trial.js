@@ -37,7 +37,7 @@ function Trial(props) {
   return (
     <div className={props.styles.grid}>
       <div className={props.styles.card}>
-        <h3>Source</h3>
+        <h3>Nłeʔkepmxcin</h3>
         <div style={{display: 'inline-block'}}>
           <SourceBlock sourceSentence={props.source} maskIndex={props.maskIndex} 
             placeholderAnswer={placeholderAnswer} displayAnswer={displayAnswer}/>
@@ -45,7 +45,7 @@ function Trial(props) {
       </div>
 
       <div className={props.styles.card}>
-        <h3>Target</h3>
+        <h3>English</h3>
         <p>{props.target}</p>
       </div>
       
